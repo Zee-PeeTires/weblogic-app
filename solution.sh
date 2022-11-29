@@ -9,3 +9,4 @@ echo $a
 done
 echo "forloop ends"
 The solution to the git bug has been seen
+deployment 4
