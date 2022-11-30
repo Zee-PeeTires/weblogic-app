@@ -11,4 +11,4 @@ echo "forloop ends"
 The solution to the git bug has been seen
 Deployment 5 in progress.
 deployment 4
-
+deploy to staging environment
