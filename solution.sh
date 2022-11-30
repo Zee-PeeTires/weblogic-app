@@ -13,3 +13,5 @@ Deployment 5 in progress.
 deployment 4
 deployment to quality assurance for testing.
 deploy to staging environment
+deploy to staging environment
+deployment to quality assurance for testing.
